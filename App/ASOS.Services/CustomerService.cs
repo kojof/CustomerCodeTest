@@ -30,7 +30,7 @@ namespace ASOS.Services
         public bool AddCustomer(Customer customer)
         {
             if (!Validate(customer)) return false;
-
+           
             var company = _companyRepository.GetById(customer.Company.Id);
 
             if (company == null)
@@ -38,9 +38,10 @@ namespace ASOS.Services
                 return false;
             }
 
-            //get classification
+            //get customer's credit rating based on classification
             var hasCustomerPassedCreditCheck = _creditCheckFactory.DoCreditCheck(company.Classification, customer);
 
+            //if customer passes the credit check, then add to database
             if (hasCustomerPassedCreditCheck)
             {
                 _customerRepository.Add(customer);
