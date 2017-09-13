@@ -1,0 +1,7 @@
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\obj\Debug\ASOS.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\bin\Debug\ASOS.Infrastructure.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\bin\Debug\ASOS.Infrastructure.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\bin\Debug\ASOS.Domain.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\bin\Debug\ASOS.Domain.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\obj\Debug\ASOS.Infrastructure.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.Infrastructure\obj\Debug\ASOS.Infrastructure.pdb

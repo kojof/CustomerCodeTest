@@ -1,0 +1,13 @@
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.UnitTests.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.UnitTests.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\obj\Debug\ASOS.UnitTests.csprojResolveAssemblyReference.cache
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\obj\Debug\ASOS.UnitTests.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\obj\Debug\ASOS.UnitTests.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Domain.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Infrastructure.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Services.dll
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Domain.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Infrastructure.pdb
+D:\Projects\Interview Tests\ASOS Software Engineering Code Test\App\ASOS.UnitTests\bin\Debug\ASOS.Services.pdb
